@@ -12,6 +12,7 @@ This project provides an MCP server that allows AI assistants to retrieve recent
 
 ## Available Tools
 ```get_press_releases(topic)```
+
 Fetches press releases from PRNewswire based on the specified topic.
 
 Parameters:
